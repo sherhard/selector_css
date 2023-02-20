@@ -1,0 +1,31 @@
+li{
+	padding: 10px;
+}
+h2{
+	color: white;
+	padding: 10px;
+}
+.hot-header{
+	background: aquamarine;
+}
+.hot-item:hover{
+	background: aquamarine;
+}
+.hot-footer{
+	color: aquamarine;
+}
+a:hover{
+	color: white;
+}
+
+.realty-header{
+	background: cadetblue;
+}
+
+.realty-item:hover{
+	background: cadetblue;
+}
+
+.realty-footer{
+	color: cadetblue;
+}
